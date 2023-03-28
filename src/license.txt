@@ -1,0 +1,11 @@
+img:
+visa-min.png
+discover-min.png
+diners-club-min.png
+american-express-min.png
+jcb-min.png
+mastercard-min.png
+source: https://www.freepik.com/
+
+img:mir-min.png
+[url=https://toplogos.ru/logo-mir/][img]https://toplogos.ru/images/thumbs/preview-logo-mir.png[/img][/url]
